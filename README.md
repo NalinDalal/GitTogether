@@ -188,3 +188,9 @@ data pulled (repos, activity, location)
 tech stacks overlap, contribution cadence, timezone/city, language preference, collaboration patterns.
 
 GitHub login, city filter, simple similarity scoring, weekly match email, feedback loop.
+
+# Users
+
+reach out topeople
+market as much as you can
+do personal on boardings
