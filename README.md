@@ -1,6 +1,7 @@
 # GitTogether
 
 Dating wrapper on top of GitHub
+
 my yc caliber idea
 
 hidden formula:
@@ -191,6 +192,24 @@ GitHub login, city filter, simple similarity scoring, weekly match email, feedba
 
 # Users
 
-reach out topeople
+reach out to people
+
 market as much as you can
+
 do personal on boardings
+
+More of search problem than persuasion problem
+
+Charge real money early, feedback over revenue
+
+Use targeted personal outreach
+
+Launch early
+
+Study early users closely
+
+Experiment and fail fast, talk to users
+
+Early users not only give feedback but they also shape how your growth takes place
+
+First version shouldn't be min viable product; But it should be min evolvable product
